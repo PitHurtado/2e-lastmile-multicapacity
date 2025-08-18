@@ -1,0 +1,11 @@
+[MESSAGES CONTROL]
+extension-pkg-whitelist=pydantic
+disable=
+    logging-format-interpolation,
+    logging-fstring-interpolation,
+    consider-using-f-string,
+    R0903,
+
+[FORMAT]
+
+max-line-length = 88

@@ -1,0 +1,14 @@
+{
+    "id_instance": "ID_5_1_3_False_2_2_1.0_1.0",
+    "cost_installed_satellites": 201853.0,
+    "cost_second_echeleon": 692514.9734782445,
+    "objective_value": 894367.973,
+    "optimality_gap": 6.875,
+    "best_bound_value": 832879.722,
+    "valid_inequalities": true,
+    "run_time": 313.081,
+    "Time best known solution found (s)": 283.107,
+    "Total number of cuts": 858,
+    "Upper Bound Updated": 3,
+    "Subproblems solved": 85
+}
